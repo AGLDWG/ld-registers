@@ -4,7 +4,7 @@ A few PHP files delivering content of the [Australian Government Linked Data Wor
 The three registers are:
 
 1. <http://linked.data.gov.au/dataset/> - Linked Data Datasets  
-2. <http://linked.data.gov.au/def/> - Defianitional Items (vocabularies, ontologies)  
+2. <http://linked.data.gov.au/def/> - Definitional Items (vocabularies, ontologies)  
 3. <http://linked.data.gov.au/org/> - Organisations
 
 The content for the three registers is sourced from the AGLDWG's catalogue, see <http://catalogue.linked.data.gov.au/dataset/>. The code here just interprets data from the catalogue into supported *profiles* and *Media Types* (formats). 
